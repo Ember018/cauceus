@@ -1,0 +1,4 @@
+/home/nguyenhieu/Backpack/ProjectBook/cauceus/cauceus_frontend/.devenv.flake.nix
+/home/nguyenhieu/Backpack/ProjectBook/cauceus/cauceus_frontend/devenv.lock
+/home/nguyenhieu/Backpack/ProjectBook/cauceus/cauceus_frontend/devenv.nix
+/home/nguyenhieu/Backpack/ProjectBook/cauceus/cauceus_frontend/devenv.yaml
